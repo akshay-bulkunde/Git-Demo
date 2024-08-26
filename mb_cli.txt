@@ -1,0 +1,2 @@
+I am learning about Linux commands while also practicing various Linux commands.
+This is my first time exploring Linux.
