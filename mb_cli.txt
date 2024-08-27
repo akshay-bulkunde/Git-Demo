@@ -1,2 +1,3 @@
 I am learning about Linux commands while also practicing various Linux commands.
 This is my first time exploring Linux.
+I learned commands like cd,ls,mkdir,touch, etc.
